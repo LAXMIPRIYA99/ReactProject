@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "firstreact",
+  "version": "1.0.0",
+  "description": "first react app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAXMIPRIYA99/ReactProject.git"
+  },
+  "keywords": [],
+  "author": "laxmipriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAXMIPRIYA99/ReactProject/issues"
+  },
+  "homepage": "https://github.com/LAXMIPRIYA99/ReactProject#readme"
+}
