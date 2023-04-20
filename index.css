@@ -1,9 +1,30 @@
-h1{
-    color:red;
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin:10px;
+    border:1px solid black;
 }
-h2{
-    color:green;
+.nav-items > ul {
+    list-style-type: none;
+    display: flex;
 }
-h3{
-    color:blueviolet;
+.nav-items > ul > li {
+    padding:10px;
+} 
+.logo{
+    width:120px;
+    height:80px;
+}
+.card{
+    width:200px;
+    border: 1px solid black;
+    padding:10px;
+    margin:10px;
+}
+.card > img{
+    width:100%;
+}
+.restarant-list{
+    display: flex;
+    padding:20px;
 }
